@@ -1,0 +1,374 @@
+<<< Back
+Sobrepasa el Péndulo
+
+
+
+Common
+ Set
+
+92812851 (TCG/OCG)
+[Monster|Effect|Link] Spellcaster/Light
+[↙↓↘] 2000/LINK-3
+
+2+ Monstruos de Efecto, incluyendo un Monstruo de Péndulo
+Gana 100 ATK por cada Carta de Monstruo de Péndulo que controles. Sólo puedes usar cada uno de los siguientes efectos de "Sobrepasa el Péndulo" una vez por turno. Si esta carta es Invocada por Enlace: puedes añadir a tu mano 1 Monstruo de Péndulo boca arriba en tu Deck Extra. Durante la Main Phase (Efecto Rápido): puedes Invocar de Modo Especial, desde tu mano o Cementerio, 1 Monstruo de Péndulo en Posición de Defensa, con un Nivel entre las Escalas de Péndulo de las 2 cartas en tus Zonas de Péndulo.
+
+Remove From Extra (1)Move To Side (0)
+
+
+
+
+
+<<< Back
+Más Allá del Péndulo
+
+
+
+Common
+ Set
+
+22125101 (TCG/OCG)
+[Monster|Effect|Link] Spellcaster/Dark
+[↙↘] 1200/LINK-2
+
+2 Monstruos de Efecto, incluyendo un Monstruo de Péndulo
+Si esta carta es Invocada por Enlace a la Zona de Monstruos Extra: puedes pagar 1200 LP; añade a tu mano 1 Monstruo de Péndulo en tu Deck, pero por el resto de este turno, a menos que Invoques por Péndulo después de que se resuelva este efecto, no puedes activar efectos de monstruos, y los efectos de cualquier carta en tu Zonas de Péndulo son negados. Si 2 monstruos con Niveles originales diferentes son Invocados por Péndulo al mismo tiempo a las zonas a las que apunte esta carta: puedes seleccionar 2 cartas en el Campo; destrúyelas. Sólo puedes usar este efecto de "Más Allá del Péndulo" una vez por turno.
+
+Remove From Extra (1)Move To Side (0)
+
+
+
+
+
+
+
+<<< Back
+Bruja de Péndulo
+
+
+
+Common
+ Set
+
+43502497 (TCG/OCG)
+[Monster|Effect|Pendulum] Spellcaster/Earth
+[★3] 1500/800
+
+←8 【Pendulum Effect】 8→
+Si uno o más Monstruos de Fusión, Sincronía y/o Xyz boca arriba que controlas son destruidos en batalla o por el efecto de una carta del adversario mientras esta carta está en la Zona de Péndulo: puedes añadir a tu Deck Extra boca arriba 1 Monstruo de Péndulo en tu Deck con el mismo Tipo original que el de 1 de esos monstruos. Sólo puedes usar este efecto de "Bruja de Péndulo" una vez por turno.
+【Monster Effect】
+Si esta carta es Invocada de Modo Normal o por Péndulo: puedes seleccionar 1 carta en tu Zona de Péndulo; destruye ambas, ese objetivo y esta carta y, si lo haces, añade a tu mano 1 Monstruo de Péndulo de Nivel 4 o menor en tu Deck. Sólo puedes usar este efecto de "Bruja de Péndulo" una vez por turno. Si esta carta en la Zona de Monstruos es destruida: puedes poner esta carta en tu Zona de Péndulo.
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+PénduLoMoon
+
+
+
+Common
+ Set
+
+66150724 (TCG/OCG)
+[Monster|Effect|Pendulum] Spellcaster/Light
+[★1] 200/700
+
+←0 【Pendulum Effect】 0→
+Durante tu Main Phase: puedes añadir a tu mano 1 Monstruo de Péndulo "Péndulo" boca arriba en tu Deck Extra, y después destruye esta carta. Sólo puedes usar este efecto de "PénduLoMoon" una vez por turno.
+【Monster Effect】
+Durante tu Main Phase: puedes añadir a tu mano hasta 2 Monstruos de Péndulo boca arriba en tu Deck Extra, con Niveles entre las Escalas de Péndulo de las 2 cartas en tus Zonas de Péndulo y además, por el resto de este turno, hasta que Invocas por Péndulo, no puedes activar efectos de monstruos, y los efectos de cualquier carta en tus Zonas de Péndulo son negados. Sólo puedes usar este efecto de "PénduLoMoon" una vez por turno.
+
+Add To Main (0)Add To Side (0)
+
+
+<<< Back
+Péndulomucho
+
+
+
+Common
+ Set
+
+18210764 (TCG/OCG)
+[Monster|Effect|Pendulum] Winged Beast/Earth
+[★1] 0/0
+
+←0 【Pendulum Effect】 0→
+Una vez por turno, durante tu Main Phase, si esta carta fue activada este turno: puedes seleccionar 1 de tus Monstruos de Péndulo que esté desterrado o en tu Cementerio, excepto "Péndulomucho"; añádelo boca arriba a tu Deck Extra.
+【Monster Effect】
+Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo de Péndulo de Nivel 1 boca arriba, excepto "Péndulomucho", pero destiérralo cuando deje el Campo.
+
+Add To Main (0)Add To Side (0)
+
+
+<<< Back
+Tesoro del Péndulo
+
+
+
+Common
+ Set
+
+26237713 (TCG/OCG)
+[Spell]
+
+Añade a tu Deck Extra, boca arriba, 1 Monstruo de Péndulo en tu Deck. Sólo puedes activar 1 "Tesoro del Péndulo" por turno.
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Parada del Péndulo
+
+
+
+Common
+ Set
+
+36111775 (TCG/OCG)
+[Spell]
+
+Si tienes 3 o más Monstruos de Péndulo boca arriba con nombres diferentes en tu Deck Extra: roba 2 cartas. Por el resto de este turno después de que esta carta se resuelva, no puedes añadir cartas a tu mano desde el Deck.
+
+Add To Main (0)Add To Side (0)
+
+
+
+
+
+<<< Back
+Péndulo Xyz
+
+
+
+Common
+ Set
+
+46005939 (TCG/OCG)
+[Spell]
+
+Selecciona 2 cartas en tus Zonas de Péndulo; Invoca ambos objetivos de Modo Especial, pero niega sus efectos y después, inmediatamente después de que se resuelva este efecto, Invoca Xyz 1 Monstruo Xyz usando sólo esos 2 monstruos. Cuando lo haces, puedes tratar el Nivel de 1 de esos monstruos como el mismo que el del otro monstruo. Sólo puedes activar 1 "Péndulo Xyz" por turno.
+
+Add To Main (0)Add To Side (0)
+
+
+<<< Back
+Péndulo Extra
+
+
+
+Common
+ Set
+
+58308221 (TCG/OCG)
+[Spell]
+
+Durante tu Main Phase este turno, puedes realizar 1 Invocación por Péndulo de uno o más monstruos desde tu Deck Extra además de tu Invocación por Péndulo. (Sólo puedes ganar este efecto una vez por turno).
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Área del Péndulo
+
+
+
+Common
+ Set
+
+2359348 (TCG/OCG)
+[Trap]
+
+Si todos los monstruos que controlas son Monstruos de Péndulo (mín. 1): selecciona 2 cartas en tus Zonas de Péndulo; destruye ambas cartas y, si lo haces, por el resto de este turno ningún jugador puede Invocar de Modo Especial, excepto una Invocación por Péndulo.
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Escala de Péndulo
+
+
+
+Common
+ Set
+
+17885118 (TCG/OCG)
+[Trap]
+
+Si tienes 2 cartas en tus Zonas de Péndulo: aplica el siguiente efecto, basado en la diferencia en las Escalas de Péndulo.
+● 0: Destruye 2 Mágicas/Trampas en el Campo.
+● 1, 2 o 3: Añade a tu mano 1 Monstruo de Péndulo de Nivel 2, 3 o 4 en tu Deck.
+● 4, 5 o 6: Añade a tu mano 1 Monstruo de Péndulo de Nivel 5, 6 o 7 en tu Deck.
+● 7+: Devuelve a la mano hasta 2 cartas en tu o tus Zonas de Péndulo, y después puedes Invocar de Modo Especial 1 Monstruo de Péndulo desde tu mano.
+Sólo puedes activar 1 "Escala de Péndulo" por turno.
+
+Add To Main (0)Add To Side (0)
+
+
+<<< Back
+La Vuelta del Péndulo
+
+
+
+Common
+ Set
+
+76660409 (TCG/OCG)
+[Trap]
+
+Si tienes 2 cartas en tus Zonas de Péndulo: selecciona 2 monstruos en tu Cementerio, cada uno con un Nivel entre (exclusivamente) las Escalas de Péndulo de las cartas en tus Zonas de Péndulo; añádelos a tu mano.
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Péndulo Renacido
+
+
+
+Common
+ Set
+
+77826734 (TCG/OCG)
+[Trap]
+
+Invoca de Modo Especial 1 Monstruo de Péndulo boca arriba en tu Deck Extra, o 1 Monstruo de Péndulo en tu Cementerio.
+
+Add To Main (0)Add To Side (0)
+
+
+<<< Back
+Trueque de Péndulo
+
+
+
+Common
+ Set
+
+42378577 (TCG/OCG)
+[Trap|Continuous]
+
+Puedes seleccionar 1 carta en tu Zona de Péndulo; Invócala de Modo Especial. Puedes seleccionar 1 Monstruo de Péndulo en tu Zona de Monstruos; pon ese Monstruo de Péndulo en tu Zona de Péndulo. Sólo puedes usar 1 efecto de "Trueque de Péndulo" por turno, y sólo una vez ese turno.
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Ascenso del Péndulo
+
+
+
+Common
+ Set
+
+74926274 (TCG/OCG)
+[Spell]
+
+Manda al Cementerio 1 monstruo que controles; Invoca de Modo Especial, desde tu Deck, 1 Monstruo de Péndulo con el mismo Nivel que el Nivel original del monstruo mandado, pero destrúyelo durante la End Phase. Sólo puedes activar 1 "Ascenso del Péndulo" por turno.
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Péndulo Impenetrable
+
+
+
+Common
+ Set
+
+60434189 (TCG/OCG)
+[Spell|Quick-Play]
+
+Este turno, las cartas en Zonas de Péndulo no pueden ser destruidas por los efectos de cartas de tu adversario, y además niega cualquier efecto activado por tu adversario que seleccione una o más cartas en las Zonas del Péndulo.
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Caballero Moissa, el General Cometa
+
+
+
+Common
+ Set
+
+66736715 (TCG/OCG)
+[Monster|Effect|Pendulum] Warrior/Light
+[★1] 100/100
+
+←11 【Pendulum Effect】 11→
+Si Invocas uno o más monstruos por Péndulo: pon esta carta en la parte superior o inferior del Deck.
+【Monster Effect】
+Cuando robas esta carta: puedes mostrarla; durante tu Main Phase este turno, puedes realizar 1 Invocación por Péndulo de uno o más monstruos desde tu mano además de tu Invocación por Péndulo. (Sólo puedes ganar este efecto una vez por turno).
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Metaltron Zefra
+
+
+
+Common
+ Set
+
+85216916 [85216896] (TCG)
+[Monster|Effect|Link] Wyrm/Light
+[↙↓↘] 2500/LINK-3
+
+2+ monstruos Invocados de Modo Especial desde el Deck Extra
+Si uno o más monstruos a los que apunte esta carta que fueron Invocados de Modo Especial desde el Deck Extra son destruidos en batalla o por el efecto de una carta del adversario: añade a tu mano 1 monstruo en tu Cementerio o 1 Monstruo de Péndulo boca arriba en tu Deck Extra. Puedes seleccionar 1 monstruo en el Campo de cada jugador que fuera Invocado de Modo Especial desde el Deck Extra, excepto esta carta; destierra a ambos hasta la End Phase. Sólo puedes usar cada efecto de "Metaltron Zefra" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+
+<<< Back
+Alianza de Duelistas
+
+
+
+Common
+ Set
+
+37469904 (TCG/OCG)
+[Spell]
+
+Si hay una carta en la Zona de Péndulo: añade a tu mano 1 Monstruo de Péndulo "Péndulo" o 1 Mágica/Trampa "Péndulo" en tu Deck. Sólo puedes activar 1 "Alianza de Duelistas" por turno.
+
+Add To Main (0)Add To Side (0)
+
+
+
+<<< Back
+Ojos Indecisos
+
+
+
+Common
+ Set
+
+31222701 (TCG/OCG)
+[Spell|Quick-Play]
+
+Destruye tantas cartas como sea posible en las Zonas de Péndulo de cada jugador, y después aplica estos efectos en secuencia, dependiendo del número de cartas destruidas por este efecto.
+● 1+: Inflige 500 puntos de daño a tu adversario.
+● 2+: Puedes añadir a tu mano 1 Monstruo de Péndulo en tu Deck Principal.
+● 3+: Puedes desterrar 1 carta en el Campo.
+● 4: Puedes añadir a tu mano 1 "Ojos Indecisos" en tu Deck.
+
+Add To Main (0)Add To Side (0)
+
+

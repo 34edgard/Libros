@@ -1,0 +1,10 @@
+Tienes credenciales hardcodeadas?  - ¿Hay URLs de bases de datos, claves API o secretos escritos directamente en el código?
+¿La estructura de carpetas es confusa?  - ¿Tardas más de 30 segundos en saber dónde poner una nueva funcionalidad?
+¿Tus endpoints hacen demasiadas cosas?  - ¿El router maneja la validación, la base de datos y la lógica de negocio todo junto?
+¿La lógica de pagos está mezclada?  - ¿El código de pagos convive con el router principal sin separación?
+¿Falta logging profesional?  - ¿Usas print() para debugar o no tienes forma de saber qué falla sin entrar al servidor?
+¿Ausencia de tests?  - ¿No tienes tests automatizados (unitarios o de integración) para partes críticas?
+¿Los deploys son manuales y difíciles?  - ¿Tardas horas en desplegar o solo tú sabes cómo hacerlo en tu máquina?
+¿El proyecto no se documenta solo?  - ¿Es difícil entender qué hace cada archivo sin leer un README detallado?
+¿Mala separación entre entornos?  - ¿Tus variables de entorno (.env) son iguales en desarrollo y producción?
+¿Cambios inseguros?  - ¿Cruzas los dedos cada vez que haces un cambio esperando no romper nada?

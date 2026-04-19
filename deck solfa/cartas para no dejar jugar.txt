@@ -1,0 +1,80 @@
+<<< Back
+La Tumba de un Organismo Super Antigüo
+
+
+
+Common
+ Set
+
+83266092 (TCG/OCG)
+[Trap|Continuous]
+
+Los monstruos en el Campo de Nivel 6 o mayor Invocados de Modo Especial no pueden declarar ataques, ni los jugadores activar sus efectos.
+
+Move To Main (0)Remove From Side (3)
+
+
+---------
+
+
+<<< Back
+Drenaje del Alma
+
+
+
+Common
+ Set
+
+73599290 (TCG/OCG)
+[Trap|Continuous]
+
+Activa esta carta pagando 1000 LP. Los monstruos que son desterrados, así como los monstruos en el Cementerio, no pueden activar sus efectos.
+
+Add To Main (0)Add To Side (0)
+
+
+--------
+
+
+<<< Back
+Y la Banda Siguió Tocando
+
+
+
+Common
+ Set
+
+47594939 (TCG/OCG)
+[Trap|Continuous]
+
+Ningún jugador puede Invocar de Modo Especial monstruos con el mismo Nivel que aquellos que controle. Ningún jugador puede Invocar de Modo Especial monstruos del mismo Rango que aquellos que controle.
+
+Add To Main (0)Add To Side (0)
+
+
+------------
+
+
+<<< Back
+Inteligencia Antihumana ME-PSY-YA
+
+
+
+Common
+ Set
+
+58844135 (TCG/OCG)
+[Monster|Effect|Pendulum] Cyberse/Light
+[★8] 2500/3000
+
+←0 【Pendulum Effect】 0→
+Cualquier carta mandada al Cementerio es desterrada en su lugar, excepto Cartas de Monstruo.
+【Monster Effect】
+Puedes mostrar esta carta en tu mano; añade otro Monstruo de Péndulo en tu mano, o 1 carta en tu Zona de Péndulo, al Deck Extra de su dueño boca arriba y, si lo haces, Invoca esta carta de Modo Especial. Sólo puedes usar este efecto de "Inteligencia Antihumana ME-PSY-YA" una vez por turno. Si otro u otros monstruos son Invocados de Modo Normal o Especial mientras controlas esta carta: manda ese o esos monstruos al Cementerio durante la End Phase de este turno.
+
+Add To Main (0)Add To Side (0)
+
+
+---------
+
+

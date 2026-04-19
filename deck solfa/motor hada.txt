@@ -1,0 +1,258 @@
+
+Adivina del Heraldo
+
+
+
+
+
+92919429 (TCG/OCG)
+[Monster|Effect|Tuner] Fairy/Light
+[★2] 500/300
+
+Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 monstruo Hada en tu Deck o Deck Extra y, si lo haces, aumenta el Nivel de esta carta tanto como el Nivel de ese monstruo, hasta el final de este turno. Si esta carta es Sacrificada: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo Hada de Nivel 2 o menor, excepto "Adivina del Heraldo". Sólo puedes usar cada efecto de "Adivina del Heraldo" una vez por turno.
+
+
+
+
+-----------
+
+
+
+Hierarquía Trias
+
+
+
+
+
+26866984 (TCG/OCG)
+[Monster|Effect] Fairy/Light
+[★9] 1900/2900
+
+Durante la Main Phase, si esta carta está en tu mano o Cementerio (Efecto Rápido): puedes Sacrificar hasta 3 monstruos Hada; Invoca esta carta de Modo Especial (pero destiérrala cuando deje el Campo) y después puedes aplicar los siguientes efectos en secuencia, dependiendo del número de monstruos Sacrificados.
+● 2+: Destruye 1 carta que controle tu adversario.
+● 3: Roba 2 cartas.
+Sólo puedes usar este efecto de "Hierarquía Trias" una vez por turno.
+
+----------
+
+
+Bendición de Vingolf
+
+
+
+
+75493362 (TCG/OCG)
+[Spell|Continuous]
+
+Cuando esta carta es activada: puedes mandar al Cementerio 1 monstruo Hada de LUZ en tu Deck. Los monstruos Hada que controlas ganan 100 ATK por cada monstruo Hada en tu Campo y Cementerio. Si esta carta es mandada al Cementerio: puedes seleccionar 1 monstruo Hada de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de "Bendición de Vingolf" una vez por turno. Sólo puedes activar 1 "Bendición de Vingolf" por turno.
+
+----------
+
+
+Hrimnir la Seguidora Divina
+
+
+
+49904658 (TCG/OCG)
+[Monster|Effect] Fairy/Light
+[★9] 2200/2200
+
+Puedes Sacrificar 3 monstruos Hada en tu mano y/o Campo; Coloca 1 Mágica Continua desde tu Deck, pero mándala al Cementerio durante la End Phase de tu adversario. Si esta carta es mandada al Cementerio por el efecto de una carta: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de "Hrimnir la Seguidora Divina" una vez por turno.
+
+----------
+
+Loagaeth Espíritu Protector
+
+
+
+
+
+84339249 (TCG/OCG)
+[Monster|Effect] Fairy/Light
+[★7] 2400/2100
+
+Si esta carta en el Campo es destruida en batalla o por el efecto de una carta: puedes seleccionar 1 monstruo en el Campo; éste no puede ser destruido en batalla este turno. Sólo puedes usar cada uno de los siguientes efectos de "Loagaeth Espíritu Protector" una vez por turno. Si es activado un efecto de un monstruo Hada que controles (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano. Puedes seleccionar 1 carta boca arriba que controle tu adversario y 1 monstruo en Posición de Ataque que controles; destierra esa carta del adversario y, si lo haces, cambia tu monstruo a Posición de Defensa.
+
+-------------
+
+
+Ley Leve Media
+
+
+
+
+
+52253888 (TCG/OCG)
+[Monster|Effect] Fairy/Light
+[★2] 400/300
+
+Al comienzo de la Battle Phase de tu adversario: puedes seleccionar cualquier número de monstruos en Posición de Ataque que controle tu adversario; mientras esta carta está en tu Zona de Monstruos, esos monstruos deben atacar esta carta este turno, si pueden. Una vez por turno, cuando es declarado un ataque que involucre esta carta y un monstruo en Posición de Ataque del adversario: puedes negar el ataque y, si lo haces, inflige daño a tu adversario igual a la mitad del ATK original de ese monstruo del adversario.
+
+---------
+
+
+
+Ángel del Alba Kambi
+
+
+
+
+
+12500059 (TCG/OCG)
+[Monster|Effect] Fairy/Light
+[★1] 500/1800
+
+Si no controlas monstruos, o todos los monstruos que controlas son monstruos Hada: puedes Invocar esta carta de Modo Especial desde tu mano. Puedes Sacrificar cualquier número de monstruos Hada, incluyendo esta carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo Hada cuyo Nivel sea igual a los Niveles totales que esos monstruos tenían en el Campo. No puedes Invocar de Modo Especial el turno en el que activas este efecto, excepto monstruos Hada. Sólo puedes usar cada efecto de "Ángel del Alba Kambi" una vez por turno.
+
+--------
+
+
+
+Eva
+
+
+
+
+40177746 (TCG/OCG)
+[Monster|Effect] Fairy/Light
+[★1] 500/200
+
+Si esta carta es mandada al Cementerio: puedes desterrar de tu Campo y/o Cementerio hasta otros 2 monstruos Hada de LUZ; añade a tu mano la misma cantidad de monstruos Hada de LUZ de Nivel 2 o menor con nombres diferentes en tu Deck, excepto "Eva". Sólo puedes usar este efecto de "Eva" una vez por turno.
+
+--------
+
+Luz Consagrada
+
+
+
+
+2980764 (TCG/OCG)
+[Monster|Effect] Fairy/Light
+[★1] 0/0
+
+Ningún jugador puede Invocar de Modo Normal o Especial monstruos de OSCURIDAD ni declarar un ataque con un monstruo de OSCURIDAD. Esta carta no puede ser destruida en batalla con un monstruo de OSCURIDAD, y además tú no recibes daño de batalla de esa batalla.
+
+----------
+
+
+Entidad Antigua N'tss
+
+
+
+
+80532587 (TCG/OCG)
+[Monster|Effect|Fusion] Fairy/Light
+[★4] 2500/1200
+
+1 Monstruo de Sincronía + 1 Monstruo Xyz
+Debe ser Invocado de Modo Especial (desde tu Deck Extra) mandando al Cementerio las cartas listadas arriba que controles. Una vez por turno: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo de Nivel 4. Si esta carta es mandada al Cementerio: puedes seleccionar 1 carta en el Campo; destrúyela. Sólo puedes Invocar de Modo Especial una o más "Entidad Antigua N'tss" una vez por turno.
+
+-----------
+
+
+
+Heraldo de las Luces Espejismo
+
+
+
+
+46935289 (TCG/OCG)
+[Monster|Effect|Link] Fairy/Light
+[↙↘] 600/LINK-2
+
+2 monstruos con el mismo Tipo y Atributo, excepto Fichas
+Cuando una Carta Mágica/de Trampa o efecto es activado (Efecto Rápido): puedes mandar al Cementerio 1 monstruo Hada en tu mano; niega la activación y, si lo haces, destrúyela. Si esta carta en tu posesión es mandada a tu Cementerio por una carta del adversario: puedes añadir a tu mano hasta 2 Monstruos de Ritual y/o Mágicas de Ritual con nombres diferentes en tu Cementerio. Sólo puedes usar cada efecto de "Heraldo de las Luces Espejismo" una vez por turno.
+
+---------
+
+
+<<< Back
+Transformación Celestial
+
+
+
+Common
+ Set
+
+28890974 (TCG/OCG)
+[Spell|Quick-Play]
+
+Invoca de Modo Especial, desde tu mano, 1 monstruo Hada. El ATK de ese monstruo se divide a la mitad, y además, destrúyelo durante la End Phase.
+
+---------
+
+
+<<< Back
+Kahyoreigetsu
+
+
+
+Common
+ Set
+
+39049051 (TCG/OCG)
+[Spell|Equip]
+
+Invoca de Modo Especial, desde tu mano, 1 monstruo Hada, Lanzador de Conjuros, Bestia Alada o Guerrero-Bestia de Nivel 4 o menor y, si lo haces, equípalo con esta carta, y después puedes devolver a la mano todos los monstruos Dragón en el Campo. Durante la End Phase, si esta carta está en el Cementerio porque este turno fue mandada allí desde la Zona de Magia y Trampas mientras estaba boca arriba: puedes añadir a tu mano 1 Mágica "Polimerización", Mágica "Fusión" o "Parásito de la Fusión" en tu Deck. Sólo puedes usar cada efecto de "Kahyoreigetsu" una vez por turno.
+
+Add To Main (0)Add To Side (0)
+
+
+----------
+
+<<< Back
+Laevatein, Jefe Geneincursor de las Sombras
+
+
+
+Common
+ Set
+
+74615388 (TCG/OCG)
+[Monster|Effect|Xyz] Fairy/Fire
+[★9] 2500/2500
+
+2+ monstruos de Nivel 9
+Sólo puedes controlar 1 "Laevatein, Jefe Geneincursor de las Sombras". Los monstruos que controla tu adversario pierden 1000 ATK/DEF. (Efecto Rápido): puedes Sacrificar esta carta Invocada Xyz; Invoca de Modo Especial 1 Monstruo Xyz "Geneincursor/a" que no sea Hada desde tu Deck Extra, y después puedes acoplar a ese monstruo Invocado de Modo Especial cartas en cualquier Campo y/o Cementerios como material, hasta el número de materiales que tenía esta carta.
+
+Add To Extra (0)Add To Side (0)
+
+
+----------
+
+<<< Back
+Jormungandr, Jefe Geneincursor de la Eternidad
+
+
+
+Common
+ Set
+
+2665273 (TCG/OCG)
+[Monster|Effect|Xyz] Reptile/Earth
+[★9] ?/?
+
+2+ monstruos de Nivel 9
+Sólo puedes controlar 1 "Jormungandr, Jefe Geneincursor de la Eternidad". El ATK/DEF originales de esta carta se convierten en 1000 x su número de materiales. (Efecto Rápido): puedes desacoplar 1 material de esta carta; cada jugador roba 1 carta, y después cada jugador que haya robado acopla a esta carta 1 carta en su mano o Campo. Sólo puedes usar este efecto de "Jormungandr, Jefe Geneincursor de la Eternidad" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+-----------
+
+
+<<< Back
+Pequeño Altercado
+
+
+
+Common
+ Set
+
+15967552 (TCG/OCG)
+[Trap]
+
+Elige 2 Zonas de Monstruos Principales sin usar en la misma columna; Invoca de Modo Especial, desde tu mano o Deck, 1 monstruo de Nivel 2 o menor en Posición de Ataque boca arriba o Posición de Defensa boca abajo en tu Zona de Monstruos Principal elegida, y después tu adversario puede hacer lo mismo desde su mano o Deck a su Zona elegida. Sólo puedes activar 1 "Pequeño Altercado" por turno.
+
+Remove From Main (3)Move To Side (0)
+
