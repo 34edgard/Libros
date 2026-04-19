@@ -1,0 +1,483 @@
+<<< Back
+Día Cero Rompecódigo
+
+
+
+Common
+ Set
+
+8662794 (TCG/OCG)
+[Monster|Effect] Warrior/Dark
+[★4] 1800/0
+
+Todos los Monstruos de Enlace apuntando a esta carta pierden 1000 ATK, excepto los Monstruos de Enlace "Rompecódigo". Si uno o más Monstruos de Enlace "Rompecódigo" en el Campo son destruidos en batalla o por el efecto de una carta, mientras esta carta está en el Campo: destruye esta carta. Si esta carta es destruida en batalla o por el efecto de una carta: puedes añadir a tu mano 1 "Día Cero Rompecódigo" en tu Deck.
+
+Add To Main (0)Add To Side (0)
+
+
+<<< Back
+Virus Espadachín Rompecódigo
+
+
+
+Common
+ Set
+
+84121193 (TCG/OCG)
+[Monster|Effect|Link] Warrior/Dark
+[↑↓] 2300/LINK-2
+
+2 Monstruos de Efecto
+Cuando esta carta es Invocada de Modo Especial, si está co-enlazada: puedes Invocar de Modo Especial, desde tu mano, Deck o Cementerio, 1 "Día Cero Rompecódigo" a cualquier zona a la que apunte un Monstruo de Enlace. Durante la End Phase, si esta carta está en el Cementerio porque fue destruida, mientras estaba en tu posesión, por una carta del adversario y mandada ahí este turno: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar cada efecto de "Virus Espadachín Rompecódigo" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+<<< Back
+Virus Furioso Rompecódigo
+
+
+
+Common
+ Set
+
+48736598 (TCG/OCG)
+[Monster|Effect|Link] Warrior/Dark
+[↑→↓] 2800/LINK-3
+
+2+ monstruos, incluyendo un monstruo "Rompecódigo"
+Cuando esta carta es Invocada de Modo Especial, si está co-enlazada: puedes Invocar de Modo Especial hasta 2 monstruos "Rompecódigo" desde tu mano y/o Cementerio a cualquier zona a la que uno o más Monstruos de Enlace apunten. Durante tu Main Phase: puedes destruir Mágicas/Trampas que controle tu adversario, hasta el número de monstruos "Rompecódigo" enlazados en el Campo. Sólo puedes usar cada efecto de "Virus Furioso Rompecódigo" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+este motor es para acceder a link 4,5 y 6 fácilmente
+
+
+<<< Back
+Dragón Cortafuego Singularidad
+
+
+
+Common
+ Set
+
+21637210 (TCG/OCG)
+[Monster|Effect|Link] Cyberse/Dark
+[↖↑↗←→↓] 3500/LINK-6
+
+3+ Monstruos de Efecto
+(Efecto Rápido): puedes seleccionar cartas que controle tu adversario o en su Cementerio hasta el número de tipos de carta diferentes (Ritual, Fusión, Sincronía, Xyz) que controlas y en tu Cementerio; devuélvelas a la mano, y además esta carta gana 500 ATK por cada carta devuelta. Si un monstruo al que apunte esta carta es destruido en batalla, o mandado al Cementerio: puedes seleccionar 1 monstruo Ciberso en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar cada efecto de "Dragón Cortafuego Singularidad" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+este link se usa para aser extra link y poder tener las dos zonas extras ocupadas por dos links 3 que apuntan acia abajo
+
+
+<<< Back
+La Llegada Ciberso @Ignister
+
+
+
+Common
+ Set
+
+11738489 (TCG/OCG)
+[Monster|Effect|Link] Cyberse/Dark
+[↑←→↙↓↘] 0/LINK-6
+
+3+ monstruos con Atributos diferentes
+Sólo puedes controlar 1 "La Llegada Ciberso @Ignister". El ATK original de esta carta se convierte en 1000 x el número de Materiales de Enlace usados para su Invocación por Enlace. No es afectado por los efectos de otras cartas. Una vez por turno: puedes seleccionar otro monstruo en el Campo; destrúyelo y, si lo haces, Invoca de Modo Especial 1 "Ficha @Ignister" (Ciberso/OSCURIDAD/Nivel 1/ATK 0/DEF 0) a tu zona a la que apunte esta carta.
+
+Add To Extra (0)Add To Side (0)
+
+<<< Back
+Dragón Borrelfinal
+
+
+
+Common
+ Set
+
+98630720 (TCG/OCG)
+[Monster|Effect|Link] Dragon/Dark
+[↑←→↙↘] 3500/LINK-5
+
+3+ Monstruos de Efecto
+No puede ser destruido en batalla o por efectos de cartas, y además ningún jugador puede seleccionar esta carta con efectos de monstruos. Puede atacar todos los monstruos que controle tu adversario, una vez a cada uno. (Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto en el Campo y 1 monstruo "Cohette" en tu Cementerio; niega los efectos de ese monstruo en el Campo y, si lo haces, Invoca ese otro monstruo de Modo Especial desde tu Cementerio. Tu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto. Sólo puedes usar este efecto de "Dragón Borrelfinal" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+<<< Back
+Codificador Hablador Aliado @Ignister
+
+
+
+Common
+ Set
+
+39138610 (TCG/OCG)
+[Monster|Effect|Link] Cyberse/Dark
+[←→↙↓↘] 2300/LINK-5
+
+3+ Monstruos de Efecto
+Si esta carta es Invocada por Enlace: puedes Invocar de Modo Especial, desde tu Cementerio, tantos monstruos Ciberso con 2300 ATK como sea posible a tus zonas a las que apunte esta carta y, si lo haces, esta carta gana 500 ATK por cada uno, y además no puedes Invocar de Modo Especial por el resto de este turno. Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes Sacrificar 1 de tus Monstruos de Enlace al que apunte esta carta; niega la activación y, si lo haces, destierra esa carta. Sólo puedes usar este efecto de "Codificador Hablador Aliado @Ignister" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+<<< Back
+Árbol Cósmico Irmistil
+
+
+
+Common
+ Set
+
+74139959 (TCG/OCG)
+[Monster|Effect|Link] Plant/Earth
+[↖←↙↓↘] 2000/LINK-5
+
+3+ Monstruos de Efecto
+Sólo puedes controlar 1 "Árbol Cósmico Irmistil". Cada vez que tu adversario Invoca de Modo Especial uno o más monstruos boca arriba durante la Main Phase, ganas LP iguales a su ATK. Una vez por turno (Efecto Rápido): puedes pagar LP en múltiplos de 1000 (máx. 3000); esta carta gana esa cantidad de ATK.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+<<< Back
+Diosa del Inframundo del Mundo Cerrado
+
+
+
+Common
+ Set
+
+98127546 (TCG/OCG)
+[Monster|Effect|Link] Fiend/Light
+[↑↗→↓↘] 3000/LINK-5
+
+4+ Monstruos de Efecto
+También puedes usar 1 monstruo que controle tu adversario como material para Invocar esta carta por Enlace. Si esta carta es Invocada por Enlace: puedes negar los efectos de todos los monstruos boca arriba que controle tu adversario en este momento. Esta carta Invocada por Enlace no es afectada por los efectos activados de tu adversario, a menos que seleccionen esta carta. Una vez por turno, cuando tu adversario active una carta o efecto que Invoque de Modo Especial uno o más monstruos desde el Cementerio (Efecto Rápido): puedes negar la activación.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+ahora sigen los combos de fuego
+
+<<< Back
+Princesa Prometeica, Otorgadora de Llamas
+
+
+
+Common
+ Set
+
+2772337 (TCG/OCG)
+[Monster|Effect|Link] Fiend/Fire
+[←→↓] 2700/LINK-3
+
+2+ Monstruos de Efecto
+No puedes Invocar monstruos de Modo Especial, excepto monstruos de FUEGO. Sólo puedes usar cada uno de los siguientes efectos de "Princesa Prometeica, Otorgadora de Llamas" una vez por turno. Durante tu Main Phase: puedes Invocar de Modo Especial 1 monstruo de FUEGO desde tu Cementerio. Si uno o más monstruos son Invocados de Modo Especial al Campo de tu adversario, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes seleccionar 1 monstruo de FUEGO que controles y 1 monstruo que controle tu adversario; destrúyelos y, si lo haces, Invoca esta carta de Modo Especial.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+<<< Back
+Anfibio Nubenjambre Ambulollena
+
+
+
+Common
+ Set
+
+20665527 (TCG/OCG)
+[Monster|Effect|Link] Machine/Fire
+[←→↓↘] 2600/LINK-4
+
+2+ Monstruos de Efecto
+Gana 200 ATK por cada Monstruo de Enlace en los Cementerios. Sólo puedes usar cada uno de los siguientes efectos de "Anfibio Nubenjambre Ambulollena" una vez por turno.
+● Si esta carta es destruida: puedes seleccionar 1 monstruo Link-3 o menor en cualquier Cementerio; Invócalo de Modo Especial.
+● Si uno o más monstruos Link-3 o menor en el Campo son destruidos en batalla o por el efecto de una carta mientras esta carta está en tu Cementerio: puedes desterrar esta carta en tu Cementerio; destruye 1 carta en el Campo.
+
+Add To Extra (0)Add To Side (0)
+
+
+<<< Back
+Caballero de Pesadilla Fénix
+
+
+
+Common
+ Set
+
+2857636 (TCG/OCG)
+[Monster|Effect|Link] Fiend/Fire
+[↑→] 1900/LINK-2
+
+2 monstruos con nombres diferentes
+Si esta carta es Invocada por Enlace: puedes descartar 1 carta, y después seleccionar 1 Mágica/Trampa que controle tu adversario; destrúyela y después, si esta carta estaba co-enlazada cuando este efecto fue activado, puedes robar 1 carta. Sólo puedes usar este efecto de "Caballero de Pesadilla Fénix" una vez por turno. Los monstruos co-enlazados que controles no pueden ser destruidos en batalla.
+
+Add To Extra (0)Add To Side (0)
+
+
+<<< Back
+Filly Pitllera
+
+
+
+Common
+ Set
+
+25919316 (TCG/OCG)
+[Monster|Effect|Link] Cyberse/Fire
+[←→] 1500/LINK-2
+
+2 Monstruos de Efecto
+Si esta carta es Invocada de Modo Especial a una zona a la que apunta un Monstruo de Enlace: puedes seleccionar 1 monstruo que controles con 1500 ATK o menos; este turno, éste puede hacer un segundo ataque durante cada Battle Phase y además, si batalla con un monstruo del adversario, cualquier daño de batalla que inflija a tu adversario se duplica. Durante la Standby Phase del próximo turno después de que esta carta fuera destruida en batalla o por el efecto de una carta y mandada al Cementerio: puedes Invocar esta carta de Modo Especial. Sólo puedes usar cada efecto de "Filly Pitllera" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+<<< Back
+Earlie Pitllera
+
+
+
+Common
+ Set
+
+47759571 (TCG/OCG)
+[Monster|Effect|Link] Cyberse/Fire
+[↗→] 1500/LINK-2
+
+2 Monstruos de Efecto
+Cuando un monstruo al que apunte esta carta activa su efecto (excepto durante el Damage Step) (Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto que controle tu adversario; hasta el final de este turno, cambia su ATK a 0, y además niega sus efectos. Durante la End Phase, si esta carta está en el Cementerio porque fue destruida en batalla o por el efecto de una carta y mandada ahí este turno: puedes Invocar esta carta de Modo Especial. Sólo puedes usar cada efecto de "Earlie Pitllera" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+interrupciones 
+
+
+<<< Back
+S:P Pequeña Caballera
+
+
+
+Common
+ Set
+
+29301451 [29301450] (TCG/OCG)
+[Monster|Effect|Link] Warrior/Dark
+[←→] 1600/LINK-2
+
+2 Monstruos de Efecto
+Si esta carta es Invocada por Enlace usando un Monstruo de Fusión, Sincronía, Xyz o Enlace como material: puedes seleccionar 1 carta en el Campo o en cualquier Cementerio; destiérrala, y además tus monstruos no pueden atacar directamente este turno. Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes seleccionar 2 monstruos boca arriba en el Campo, incluyendo un monstruo que controles; destierra ambos hasta la End Phase. Sólo puedes usar cada efecto de "S:P Pequeña Caballera" una vez por turno.
+
+Remove From Extra (1)Move To Side (0)
+
+
+<<< Back
+I:P Enmascarada
+
+
+
+Common
+ Set
+
+65741788 [65741786] (TCG/OCG)
+[Monster|Effect|Link] Cyberse/Dark
+[↙↘] 800/LINK-2
+
+2 Monstruos que no sean de Enlace
+Durante la Main Phase de tu adversario, puedes (Efecto Rápido): inmediatamente después de que se resuelva este efecto, Invocar por Enlace 1 Monstruo de Enlace usando materiales que controlas, incluyendo esta carta. Sólo puedes usar este efecto de "I:P Enmascarada" una vez por turno. Un Monstruo de Enlace que usó esta carta como material no puede ser destruido por efectos de cartas de tu adversario.
+
+Remove From Extra (1)Move To Side (0)
+
+
+
+<<< Back
+W:P Baile Elegante
+
+
+
+Common
+ Set
+
+4993187 (OCG)
+[Monster|Effect|Link] Cyberse/Dark
+[↑↙↘] 2400/LINK-3
+
+2+ Monstruos de Efecto
+Cuando tu adversario activa un efecto de monstruo en el Campo o Cementerio (Efecto Rápido): puedes desterrar esta carta que fue Invocada de Modo Especial este turno hasta la End Phase; niega ese efecto y, si lo haces, destiérralo. Durante la Main Phase de tu adversario, puedes (Efecto Rápido): inmediatamente después de que se resuelva este efecto, Invocar por Enlace 1 Monstruo de Enlace y, si esta carta que controlas fuera a ser usada como material para esa Invocación por Enlace, también puedes usar 1 monstruo Link-2 o menor que controle tu adversario. Ningún jugador puede activar los efectos de Monstruos de Enlace en respuesta a la activación de este efecto. Sólo puedes usar cada efecto de "W:P Baile Elegante" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+
+
+cartas interesantes
+
+<<< Back
+Hechicera de Invocación
+
+
+
+Common
+ Set
+
+61665245 (TCG/OCG)
+[Monster|Effect|Link] Spellcaster/Dark
+[↑↙↘] 2400/LINK-3
+
+2+ monstruos con el mismo Tipo, excepto Fichas
+Si esta carta es Invocada por Enlace: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo en Posición de Defensa a la zona de tu adversario a la que apunte esta carta (pero niega sus efectos), y después puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo en Posición de Defensa con el mismo Tipo que ese monstruo (pero niega sus efectos). Si Invocas desde tu Deck de esta forma, no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos con ese mismo Tipo original. Sólo puedes usar este efecto de "Hechicera de Invocación" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+<<< Back
+Caballero de Pesadilla Unicornio
+
+
+
+Common
+ Set
+
+38342335 (TCG/OCG)
+[Monster|Effect|Link] Fiend/Dark
+[←→↓] 2200/LINK-3
+
+2+ monstruos con nombres diferentes
+Si esta carta es Invocada por Enlace: puedes descartar 1 carta, y después seleccionar 1 carta en el Campo; barájala al Deck y después, si esta carta estaba co-enlazada cuando este efecto fue activado, puedes robar 1 carta. Sólo puedes usar este efecto de "Caballero de Pesadilla Unicornio" una vez por turno. Mientras haya monstruos "Caballero de Pesadilla" co-enlazados en el Campo, en tu robo normal de tu Draw Phase roba 1 carta por cada nombre de carta diferente entre esos monstruos "Caballero de Pesadilla" co-enlazados, en lugar de robar sólo 1 carta.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+<<< Back
+Gorgon de Zilofthonia
+
+
+
+Common
+ Set
+
+12067160 (TCG/OCG)
+[Monster|Effect|Link] Reptile/Dark
+[↖↑↗] 100/LINK-3
+
+2+ Monstruos de Efecto
+No puedes Invocar/Colocar monstruos a una o más zonas a las que apunte esta carta. Los monstruos a los que apunte esta carta no pueden atacar, y además sus efectos activados son negados. Gana ATK igual al ATK original total de los monstruos a los que apunte esta carta. No puede ser destruida en batalla o por efectos de monstruos, mientras esta carta no apunte a ningún monstruo.
+
+Add To Extra (0)Add To Side (0)
+
+
+<<< Back
+A Bao A Qu, la Sombra sin Luz
+
+
+
+Common
+ Set
+
+4731783 (TCG/OCG)
+[Monster|Effect|Link] Fiend/Dark
+[←→↙↘] 2800/LINK-4
+
+2+ monstruos, incluyendo un monstruo Demonio
+Durante la Main Phase (Efecto Rápido): puedes descartar 1 carta, y después activa 1 de estos efectos;
+● Destruye 1 carta en el Campo.
+● Destierra esta carta (hasta la End Phase) y, si lo haces, Invoca de Modo Especial 1 monstruo de LUZ u OSCURIDAD desde tu Cementerio.
+Durante tu Standby Phase: puedes robar cartas igual al número de Tipos de Monstruo diferentes en tu Cementerio, y después pon en la parte inferior del Deck, en cualquier orden, cartas en tu mano igual al número de cartas que has robado. Sólo puedes usar cada efecto de "A Bao A Qu, la Sombra sin Luz" una vez por turno.
+
+Add To Extra (0)Add To Side (0)
+
+
+
+<<< Back
+Accescodificador Hablador
+
+
+
+Common
+ Set
+
+86066372 (TCG/OCG)
+[Monster|Effect|Link] Cyberse/Dark
+[↑←→↓] 2300/LINK-4
+
+2+ Monstruos de Efecto
+Tu adversario no puede activar cartas o efectos en respuesta a la activación del efecto de esta carta. Si esta carta es Invocada por Enlace: puedes seleccionar 1 Monstruo de Enlace que fue usado como su Material de Enlace; esta carta gana ATK igual al Rating de Enlace x 1000 de ese monstruo. Puedes desterrar 1 Monstruo de Enlace en tu Campo o Cementerio; destruye 1 carta que controle tu adversario, y además por el resto de este turno no puedes desterrar monstruos con ese mismo Atributo para activar este efecto de "Accescodificador Hablador".
+
+Add To Extra (0)Add To Side (0)
+
+
+
+<<< Back
+Mekk-Caballero Cruzadia Avramax
+
+
+
+Common
+ Set
+
+21887175 (TCG/OCG)
+[Monster|Effect|Link] Cyberse/Light
+[←→↙↘] 3000/LINK-4
+
+2+ monstruos Invocados de Modo Especial desde el Deck Extra
+Mientras esta carta Invocada por Enlace esté en el Campo, tu adversario no puede seleccionar esta carta con efectos de cartas, y además sus monstruos no pueden seleccionar monstruos para ataques, excepto éste. Una vez por batalla, durante el cálculo de daño, si esta carta batalla con un monstruo Invocado de Modo Especial (Efecto Rápido): puedes hacer que esta carta gane ATK igual al ATK de ese monstruo del adversario sólo durante ese cálculo de daño. Si esta carta Invocada por Enlace que controlas es mandada a tu Cementerio por una carta del adversario: puedes barajar al Deck 1 carta en el Campo.
+
+Remove From Extra (1)Move To Side (0)
+
+
+
+<<< Back
+Ánima Renunciada
+
+
+
+Common
+ Set
+
+94259633 (TCG/OCG)
+[Monster|Effect|Link] Spellcaster/Dark
+[↑] 0/LINK-1
+
+1 monstruo de Nivel 1, excepto una Ficha
+Puedes seleccionar 1 monstruo boca arriba al que apunte esta carta; equipa ese monstruo boca arriba a esta carta (máx. 1). Sólo puedes usar este efecto de "Ánima Renunciada" una vez por turno. Esta carta gana ATK igual al de ese monstruo equipado.
+
+Remove From Extra (1)Move To Side (0)
+
+
+
+<<< Back
+Heraldo de las Luces Espejismo
+
+
+
+Common
+ Set
+
+46935289 (TCG/OCG)
+[Monster|Effect|Link] Fairy/Light
+[↙↘] 600/LINK-2
+
+2 monstruos con el mismo Tipo y Atributo, excepto Fichas
+Cuando una Carta Mágica/de Trampa o efecto es activado (Efecto Rápido): puedes mandar al Cementerio 1 monstruo Hada en tu mano; niega la activación y, si lo haces, destrúyela. Si esta carta en tu posesión es mandada a tu Cementerio por una carta del adversario: puedes añadir a tu mano hasta 2 Monstruos de Ritual y/o Mágicas de Ritual con nombres diferentes en tu Cementerio. Sólo puedes usar cada efecto de "Heraldo de las Luces Espejismo" una vez por turno.
+
+Remove From Extra (1)Move To Side (0)
+
+
+
