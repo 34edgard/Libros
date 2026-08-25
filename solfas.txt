@@ -1,0 +1,351 @@
+origuinal
+
+Cutia DoSolfacorde
+
+
+
+Common
+ Set
+
+55226153 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Earth
+[★1] 100/400
+
+←8 【Pendulum Effect】 8→
+Las Invocaciones por Péndulo de tus Monstruos de Péndulo "Solfacorde" no pueden ser negadas.
+【Monster Effect】
+Mientras tengas una Escala de Péndulo par en tu Zona de Péndulo, los Monstruos de Péndulo "Solfacorde" que controles ganan ATK igual a su propia Escala de Péndulo x 100. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Monstruo de Péndulo "Solfacorde" en tu Deck, excepto "Cutia DoSolfacorde". Sólo puedes usar este efecto de "Cutia DoSolfacorde" una vez por turno.
+
+
+mi version
+
+Cutia DoSolfacorde
+
+
+
+Common
+ Set
+
+55226153 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Earth
+[★1] 100/400
+
+←8 【Pendulum Effect】 8→
+Las Invocaciones por Péndulo de tus Monstruos de Péndulo "Solfacorde" no pueden ser negadas.
+【Monster Effect】
+ los Monstruos de Péndulo "Solfacorde" que controles ganan ATK igual a su propia Escala de Péndulo x 100 pero si tienes una escala par son por 300.
+ Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Monstruo de Péndulo "Solfacorde" en tu Deck, excepto "Cutia DoSolfacorde" pero si tienes una escala par en tu zona de pendulo puede ser una magia o trampa solfachord.
+ Sólo puedes usar este efecto de "Cutia DoSolfacorde" una vez por turno.
+
+
+
+
+
+
+
+origuinal
+
+Dreamia ReSolfacorde
+
+
+
+Common
+ Set
+
+92610868 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Wind
+[★2] 600/400
+
+←7 【Pendulum Effect】 7→
+Las Invocaciones por Péndulo de tus Monstruos de Péndulo "Solfacorde" no pueden ser negadas.
+【Monster Effect】
+Mientras tengas una Escala de Péndulo impar en tu Zona de Péndulo, si una o más Cartas de Monstruo de Péndulo "Solfacorde" que controlas fueran a ser destruidas por el efecto de una carta de tu adversario, puedes destruir esta carta en lugar de 1 de esas cartas. Si controlas una carta "Solfacorde" en tu Zona de Péndulo: puedes Invocar esta carta de Modo Especial desde tu mano. Sólo puedes usar este efecto de "Dreamia ReSolfacorde" una vez por turno.
+
+
+
+mi  version
+
+
+Dreamia ReSolfacorde
+
+
+
+Common
+ Set
+
+92610868 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Wind
+[★2] 600/400
+
+←7 【Pendulum Effect】 7→
+Las Invocaciones por Péndulo de tus Monstruos de Péndulo "Solfacorde" no pueden ser negadas.
+【Monster Effect】
+ si una o más Cartas de Monstruo de Péndulo "Solfacorde" que controlas fueran a ser destruidas por el efecto de una carta de tu adversario, puedes destruir esta carta en lugar de 1 de esas cartas pero si tienes una escala impar en la zona de pendulo son todas las cartas de pendulo solfachord en el campo.
+ Si controlas una carta "Solfacorde" en tu Zona de Péndulo: puedes Invocar esta carta de Modo Especial desde tu mano pero si tienes una escala impar puedes invocar otra solfachord de tu mano. Sólo puedes usar este efecto de "Dreamia ReSolfacorde" una vez por turno.
+
+
+
+
+
+
+
+
+original 
+
+Eliteia MiSolfacorde
+
+
+
+Common
+ Set
+
+28115467 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Water
+[★3] 1100/400
+
+←6 【Pendulum Effect】 6→
+Las Invocaciones por Péndulo de tus Monstruos de Péndulo "Solfacorde" no pueden ser negadas.
+【Monster Effect】
+Mientras tengas una Escala de Péndulo par en tu Zona de Péndulo, no recibes daño de batallas que involucren a tus Monstruos de Péndulo "Solfacorde". Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 Mágica/Trampa que controle tu adversario; devuélvela a la mano. Sólo puedes usar este efecto de "Eliteia MiSolfacorde" una vez por turno.
+
+
+
+
+mi version
+
+Eliteia MiSolfacorde
+
+
+
+Common
+ Set
+
+28115467 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Water
+[★3] 1100/400
+
+←6 【Pendulum Effect】 6→
+Las Invocaciones por Péndulo de tus Monstruos de Péndulo "Solfacorde" no pueden ser negadas.
+【Monster Effect】
+ no recibes daño de batallas que involucren a tus Monstruos de Péndulo "Solfacorde" pero si tienes una escala par puedes cambiar el objetivo de un ataque a otro mounstruo solfachord.
+ Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 Mágica/Trampa que controle tu adversario; devuélvela a la mano pero si tienes una escala par en la zona de pendulo tambien puedes seleccionar un mounstruo y devolverlo a la mano. Sólo puedes usar este efecto de "Eliteia MiSolfacorde" una vez por turno.
+
+
+
+
+
+
+
+
+origuinal 
+
+
+Fancia FaSolfacorde
+
+
+
+Common
+ Set
+
+54100561 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Fire
+[★4] 1600/400
+
+←5 【Pendulum Effect】 5→
+Las Invocaciones por Péndulo de tus Monstruos de Péndulo "Solfacorde" no pueden ser negadas.
+【Monster Effect】
+Mientras tengas una Escala de Péndulo impar en tu Zona de Péndulo, si tu Monstruo de Péndulo "Solfacorde" fuera a ser destruido en batalla, puedes destruir esta carta en su lugar. Durante tu Main Phase: puedes añadir a tu Deck Extra, boca arriba, 1 Monstruo de Péndulo "Solfacorde" en tu Deck, excepto "Fancia FaSolfacorde". Sólo puedes usar este efecto de "Fancia FaSolfacorde" una vez por turno.
+
+
+mi version
+
+Fancia FaSolfacorde
+
+
+
+Common
+ Set
+
+54100561 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Fire
+[★4] 1600/400
+
+←5 【Pendulum Effect】 5→
+Las Invocaciones por Péndulo de tus Monstruos de Péndulo "Solfacorde" no pueden ser negadas.
+【Monster Effect】
+ si tu Monstruo de Péndulo "Solfacorde" fuera a ser destruido en batalla, puedes destruir esta carta en su lugar pero si tienes una escala impar en la zona de pendulo ese mounstruo no puede ser destruido en batalla este turno. 
+Durante tu Main Phase: puedes añadir a tu Deck Extra, boca arriba, 1 Monstruo de Péndulo "Solfacorde" en tu Deck, excepto "Fancia FaSolfacorde" pero si tienes una escala impar en tu zona de pendulo puedes añadir del extra deck a tu mano una solfachord con escala diferente al del mounstruo que añadiste al extra deck. Sólo puedes usar este efecto de "Fancia FaSolfacorde" una vez por turno.
+
+
+
+
+
+
+origuinal 
+
+Gracia SolSolfacorde
+
+
+
+Common
+ Set
+
+91598270 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Water
+[★5] 2100/1400
+
+←4 【Pendulum Effect】 4→
+Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo "Solfacorde" son Invocados por Péndulo.
+【Monster Effect】
+Mientras tengas una Escala de Péndulo par en tu Zona de Péndulo, si tu Monstruo de Péndulo "Solfacorde" ataca, tu adversario no puede activar efectos de monstruos hasta el final del Damage Step. Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Mágica/Trampa "Solfacorde" en tu Deck. Sólo puedes usar este efecto de "Gracia SolSolfacorde" una vez por turno.
+
+
+mi version
+
+Gracia SolSolfacorde
+
+
+
+Common
+ Set
+
+91598270 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Water
+[★5] 2100/1400
+
+←4 【Pendulum Effect】 4→
+Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo "Solfacorde" son Invocados por Péndulo.
+【Monster Effect】
+ si tu Monstruo de Péndulo "Solfacorde" ataca, tu adversario no puede activar efectos de monstruos hasta el final del Damage Step pero si tienes una escala par tu oponente no puede activar efectos de mounstruos en repuesta a activaciones de efectos de mounstruos solfachord. 
+Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Mágica/Trampa "Solfacorde" en tu Deck pero si tienes una escala par puede ser un mounstruo solfachord. Sólo puedes usar este efecto de "Gracia SolSolfacorde" una vez por turno.
+
+
+
+
+origuinal 
+
+
+Angelia LaSolfacorde
+
+
+
+Common
+ Set
+
+27993919 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Fire
+[★6] 2300/1400
+
+←3 【Pendulum Effect】 3→
+Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo "Solfacorde" son Invocados por Péndulo.
+【Monster Effect】
+Mientras tengas una Escala de Péndulo impar en tu Zona de Péndulo, si tu Monstruo de Péndulo "Solfacorde" ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa o sus efectos. Durante tu Main Phase: puedes Sacrificar 1 Monstruo de Péndulo "Solfacorde" (aun si está boca abajo) y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 Monstruo de Péndulo "Solfacorde" cuya Escala de Péndulo sea 2 mayor o 2 menor que la de ese monstruo, excepto "Angelia LaSolfacorde". Sólo puedes usar este efecto de "Angelia LaSolfacorde" una vez por turno.
+
+
+
+mi version
+
+
+Angelia LaSolfacorde
+
+
+
+Common
+ Set
+
+27993919 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Fire
+[★6] 2300/1400
+
+←3 【Pendulum Effect】 3→
+Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo "Solfacorde" son Invocados por Péndulo.
+【Monster Effect】
+ si tu Monstruo de Péndulo "Solfacorde" ataca, hasta el final del Damage Step tu adversario no puede activar Cartas Mágicas/de Trampa o sus efectos pero si tienes una escala impar en tu zona de pendulo tu oponente no puede activar magias o trampas en respuesta a la activacion de efectos de mounstruos solfachord.
+ Durante tu Main Phase: puedes Sacrificar 1 Monstruo de Péndulo "Solfacorde" (aun si está boca abajo) y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 Monstruo de Péndulo "Solfacorde" cuya Escala de Péndulo sea 2 mayor o 2 menor que la de ese monstruo pero si tienes escala impar en la zona de pendulo puedes invocar otro solfachord del deck que tenga escala diferente al que invocaste y sea dos escalas mayor o meno al mounstruo sacrificado, excepto "Angelia LaSolfacorde". Sólo puedes usar este efecto de "Angelia LaSolfacorde" una vez por turno.
+
+
+
+
+
+
+original
+
+Beautia SiSolfacorde
+
+
+
+Common
+ Set
+
+54387923 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Earth
+[★7] 2500/2400
+
+←2 【Pendulum Effect】 2→
+Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo "Solfacorde" son Invocados por Péndulo.
+【Monster Effect】
+(Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto que controle tu adversario o, si tienes una Escala de Péndulo par en tu Zona de Péndulo, puedes seleccionar 1 Mágica/Trampa boca arriba que controle tu adversario en su lugar; este turno, destiérralo/a cuando deje el Campo. Sólo puedes usar este efecto de "Beautia SiSolfacorde" una vez por turno. Una vez por turno, al comienzo del Damage Step, si esta carta batalla con un monstruo con ATK igual o mayor que la Escala de Péndulo más baja en tu Zona de Péndulo x 300: destruye ese monstruo.
+
+
+mi version
+
+Beautia SiSolfacorde
+
+
+
+Common
+ Set
+
+54387923 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Earth
+[★7] 2500/2400
+
+←2 【Pendulum Effect】 2→
+Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo "Solfacorde" son Invocados por Péndulo.
+【Monster Effect】
+(Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto que controle tu adversario o Mágica/Trampa boca arriba que controle tu adversario en su lugar; este turno, destiérralo/a cuando deje el Campo pero si tienes una escala par en la zona de pendulo remueve la carta selecionada.
+ Sólo puedes usar este efecto de "Beautia SiSolfacorde" una vez por turno. 
+ al comienzo del Damage Step, si esta carta batalla con un monstruo con ATK igual o mayor que la Escala de Péndulo más baja en tu Zona de Péndulo x 300: destruye ese monstruo pero si tienes escala par en la zona de pendulo remueve el mounstruo en su lugar.
+
+
+original
+
+
+
+Coolia DoSolfacorde
+
+
+
+Common
+ Set
+
+80776622 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Wind
+[★8] 2700/2500
+
+←1 【Pendulum Effect】 1→
+Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo "Solfacorde" son Invocados por Péndulo.
+【Monster Effect】
+Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 2 Monstruos de Péndulo. Sólo puedes usar cada uno de los siguientes efectos de "Coolia DoSolfacorde" una vez por turno. Puedes seleccionar 1 carta boca arriba que controle tu adversario, o hasta 2 cartas si tienes una Escala de Péndulo impar en tu Zona de Péndulo; hasta el final del turno de tu adversario, niega sus efectos. Cuando es activado un efecto de un monstruo en el Campo con ATK igual o menor que la Escala de Péndulo más alta en tu Zona de Péndulo x 300 (Efecto Rápido): puedes destruir ese monstruo.
+
+
+mi version
+
+Coolia DoSolfacorde
+
+
+
+Common
+ Set
+
+80776622 (TCG/OCG)
+[Monster|Effect|Pendulum] Fairy/Wind
+[★8] 2700/2500
+
+←1 【Pendulum Effect】 1→
+Tu adversario no puede activar una Carta Mágica/de Trampa, o efecto de monstruo, cuando uno o más de tus Monstruos de Péndulo "Solfacorde" son Invocados por Péndulo.
+【Monster Effect】
+Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 2 Monstruos de Péndulo pero si tienes una escala impar en la zona de pendulo solo sacrifica uno. 
+Sólo puedes usar cada uno de los siguientes efectos de "Coolia DoSolfacorde" una vez por turno. 
+efecto rapido: Puedes seleccionar 1 carta boca arriba que controle tu adversario, o hasta 2 cartas si tienes una Escala de Péndulo impar en tu Zona de Péndulo; hasta el final del turno de tu adversario, niega sus efectos.
+ Cuando es activado un efecto de un monstruo en el Campo con ATK igual o menor que la Escala de Péndulo más alta en tu Zona de Péndulo x 300 (Efecto Rápido): puedes destruir ese monstruo pero si tienes escala impar remueve ese mounstruo en su lugar .

@@ -1,0 +1,16 @@
+crea un juego de cartas usando js y canvas 
+este juego tendra un tablero de 5x5 (y como si fuera una matriz comenzamos desde el cero) Casillas para cartas, las tres Casillas del centro (2,1 2,2 y 2,3) seran zonas de cartas de escenario y podran ser usadas por ambos jugadores
+las zonas de la esquina inferior derecha de cada jugador seran las zonas del mazo y las que estan arriba de esta sera la zona de cementerio
+las tres columnas del medio del tablero (las que tan debajo de las zonas de escenario) se dividiran en dos filas la de arriba sera zona de cartas de criaturas, y las zonas debajo de estas seran zonas de cartas de acción/objetos
+
+
+
+las cartas de criaturas
+deben tener un
+
+
+las cartas de acción
+
+cartas de objetos
+
+cartas de escenario
