@@ -1,0 +1,51 @@
+lydea la afinadora
+mounstruo|pendulo|hada|oscuridad
+|nivel 1|escala 0
+atk: 100
+def: 400
+
+efecto de mounstruo:
+al activar este efecto (efecto rapido) no podras invocar mounstruos del extra deck excepto hada (link o péndulo) después puedes tributar esta carta en mano o campo y otro mounstruo hada; invoca de modo especial desde el deck un hada péndulo que no sea luz u oscuridad.
+si esta carta esta en el cementerio efecto rapido: puedes devolver esta carta y otro mounstruo hada de luz al deck, luego selecciona un mounstruo péndulo en escala o zona de mounstruos este incrementa su escala igual al nivel y si lo haces los mounstruos quque controle el oponente hasta el final del turno pierden 100 por el nivel del mounstruo seleccionado.
+solo puedes usar cada efecto de lydea la afinadora una vez por turno.
+efecto de péndulo:
+una vez por turno efecto rapido: devuelve esta carta a la mano y los mounstruos péndulo que controles ganan 100 de ataque por su propia escala. 
+
+
+layra la afinadora
+
+mounstruo|pendulo|hada|luz
+|nivel 8|escala 9
+atk: 2800
+def: 400
+
+efecto de mounstruo:
+una vez por turno puedes devolver esta carta a tu mano, después puedes invocar de modo especial un mounstruo hada péndulo que no sea de (luz u oscuridad) desde tu mano o extra deck.
+una vez por turno si se activa el efecto de un hada péndulo que no sea de luz u oscuridad puedes invocar esta carta de modo especial desde la mano u extra deck.
+solo puedes usar cada efecto de layra una vez por turno
+
+efecto de péndulo:
+
+una vez por turno efecto rápido devuelve esta carta a tu mano y coloca un mounstruo hada péndulo de tu extra deck o cementerio en la zona pendulo.
+
+
+
+layra y lydea el duo de afinadoras
+mounstruo|enlace|hada|luz| apunta a la izquierda y derecha
+
+atk: 3500
+link: 2
+2 mounstruos péndulo de tipo hada, incluyendo uno que no sea luz o oscuridad
+efecto de mounstruo:
+una vez por turno puedes remover esta carta hasta el final del turno y aplica los siguientes efectos hasta el final del turno
+1) cual una carta deje el campo del oponente esta se remueve boca abajo en su lugar.
+2) el oponente no puede activar cartas boca abajo 
+3) el oponente no puede no puede invocar, remover o devolver cartas desde el cementerio
+
+
+
+contrato de afinadoras
+magia de juego rápido
+
+una vez por turno puedes añadir una lydea la afinadora o una layra la afinadora de tu deck a tu mano y si lo haces este turno cada vez que un hada péndulo deja el campo ya sea la zona de mounstruos o la zona péndulo puedes pagar 500 de vida y tu oponente debe devolver una carta de su campo a la mano
+
